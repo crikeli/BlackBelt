@@ -1,9 +1,9 @@
 //
 //  iOSPracticeUITests.swift
-//  iOSPracticeUITests
+//  BlackBelt
 //
-//  Created by Wei Chung Chuo on 8/13/15.
-//  Copyright © 2015 Wei Chung Chuo. All rights reserved.
+//  Created by Kelin Christi on 1/22/16.
+//  Copyright © 2016 Kelz. All rights reserved.
 //
 
 import XCTest
